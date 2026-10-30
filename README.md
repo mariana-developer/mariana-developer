@@ -38,7 +38,6 @@
 ## 📌 Projetos em destaque
 
 - 📚 **Sistema de Gestão de Biblioteca Universitária** – projeto em Java com conceitos de POO
-- 🔗 *(adicione aqui o link e uma breve descrição dos próximos projetos)*
 
 ---
 
